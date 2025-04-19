@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🌿 Ayush Herb – Herbal Plant Information Web App
 
 ## 📌 About the Project
@@ -8,8 +8,8 @@
 ---
 
 ## 🔗 Live Demo / Walkthrough
-🎥 [Video Walkthrough Link Here]  
-📂 [GitHub Repo Link Here] *(You're already here!)*
+🎥 https://www.linkedin.com/posts/arun004_ayushherb-webdevelopment-ayurveda-activity-7319452740655427584-soao?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEb2ZkUBXtvlRoZF9iE8-nE7iHSp395N8Ko  
+📂 https://github.com/Arun0041/AYUSH-HERB
 
 ---
 
@@ -85,7 +85,6 @@
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/yourusername/ayush-herb.git
-=======
+
 # AYUSH-HERB
 The AYUSH HERB website is designed to raise awareness about the medicinal value of herbs while providing an interactive space for users to explore, learn, and share insights on health, wellness, and herbal practices.
->>>>>>> b013cce140dabf56ca7d870b4b067cc944f30abd
